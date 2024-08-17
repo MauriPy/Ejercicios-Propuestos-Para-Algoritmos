@@ -1,7 +1,4 @@
-# Ejercicios Propuestos Para Algoritmos
- 
-EJERCICIOS PROPUESTOS PARA ALGORITMOS
-
+# EJERCICIOS PROPUESTOS PARA ALGORITMOS
 
 1) Suma de números: Escribe un algoritmo que calcule la suma de dos números ingresados por el usuario.
 2) Multiplicación de números: Crea un algoritmo que multiplique dos números ingresados por el usuario.
