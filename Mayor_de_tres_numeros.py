@@ -4,7 +4,7 @@
 # en caso de ser menor mantener la variables como esta.
 
 # Pedimos al usuario que ingrese los 3 numeros y estos deben agregarse a una lista vacia.
-# Definimos la lista vacia.
+# Definimos la lista vacia para almacenar los numeros.
 numeros = []
 
 # Creamos el ciclo para preguntar los numeros y agregarlos a la lista.
