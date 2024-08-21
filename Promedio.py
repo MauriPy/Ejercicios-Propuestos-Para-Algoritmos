@@ -41,7 +41,7 @@ def main():
             break
 
         else:
-            # Agregamos lo ingresado por el usuario, convertimos a entero el string para que funciones bien la comparacion en el metodo burbuja.
+            # Agregamos lo ingresado por el usuario, convertimos a float el string para que funciones bien la comparacion en el metodo burbuja.
             numeros.append(float(n)) 
 
     # Mostramos la lista de los numeros original.
